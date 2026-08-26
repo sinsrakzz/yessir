@@ -1,2 +1,2 @@
 # yessir
-tes
+sudo apt update
